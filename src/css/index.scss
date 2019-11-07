@@ -1,0 +1,8 @@
+body,.box{
+        width:200px;
+        height: 120px;
+        background-size: cover;
+        background:url('../../img/a.jpg')
+    }
+
+// 默认情况下webpack无法处理css中的url地址
